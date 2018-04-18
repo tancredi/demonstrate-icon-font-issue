@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="17" viewBox="0 0 15 17">
+    <defs>
+        <linearGradient id="a" x1="0%" x2="117.789%" y1="0%" y2="149.518%">
+            <stop offset="0%" stop-color="#FC4D7D"/>
+            <stop offset="28.85%" stop-color="#FD736D"/>
+            <stop offset="29.957%" stop-color="#FD746C"/>
+            <stop offset="100%" stop-color="#FECF45"/>
+        </linearGradient>
+        <linearGradient id="c" x1="0%" x2="117.789%" y1="0%" y2="149.518%">
+            <stop offset="0%" stop-color="#FC4D7D"/>
+            <stop offset="93.501%" stop-color="#FEC749"/>
+            <stop offset="100%" stop-color="#FECF45"/>
+        </linearGradient>
+        <path id="b" d="M1 2.857h7.831a.5.5 0 0 1 .303.102l3.822 2.912a1 1 0 0 1 0 1.591l-3.822 2.912a.5.5 0 0 1-.303.102H1a1 1 0 0 1-1-1V3.857a1 1 0 0 1 1-1z"/>
+        <linearGradient id="d" x1="0%" x2="117.789%" y1="0%" y2="149.518%">
+            <stop offset="0%" stop-color="#FC4D7D"/>
+            <stop offset="100%" stop-color="#FECF45"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-2-.095h18v17.143H-2z"/>
+        <g transform="rotate(-45 10.834 7.826)">
+            <g>
+                <use fill="url(#a)" xlink:href="#b"/>
+                <path stroke="#FFF" stroke-width="2" d="M8.662 9.476l3.688-2.81-3.688-2.809H1v5.62h7.662z"/>
+                <path stroke="url(#c)" d="M1 3.357a.5.5 0 0 0-.5.5v5.62a.5.5 0 0 0 .5.5h7.831l3.822-2.913a.5.5 0 0 0 0-.795L8.831 3.357H1z"/>
+            </g>
+            <ellipse cx="10" cy="6.667" fill="#B52B2F" rx="1" ry="1"/>
+            <path stroke="url(#d)" stroke-linecap="round" d="M10 6.667c0 1.578 1.343 2.857 3 2.857s3-1.28 3-2.857c0-1.578-1.343-2.857-3-2.857"/>
+            <path stroke="#FF595E" stroke-linecap="round" d="M11.536 2.877L12.95.183M11.536 2.877L10.12.183"/>
+        </g>
+    </g>
+</svg>
