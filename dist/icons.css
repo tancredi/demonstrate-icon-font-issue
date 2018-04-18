@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?227d2ce434b2f133c07827e4bc8a2563?#iefix") format("embedded-opentype"),
-url("./icons.woff2?227d2ce434b2f133c07827e4bc8a2563") format("woff2"),
-url("./icons.woff?227d2ce434b2f133c07827e4bc8a2563") format("woff"),
-url("./icons.ttf?227d2ce434b2f133c07827e4bc8a2563") format("truetype"),
-url("./icons.svg?227d2ce434b2f133c07827e4bc8a2563#icons") format("svg");
+    src: url("./icons.eot?11794b987183c03bab8af9cc94dbf81f?#iefix") format("embedded-opentype"),
+url("./icons.woff2?11794b987183c03bab8af9cc94dbf81f") format("woff2"),
+url("./icons.woff?11794b987183c03bab8af9cc94dbf81f") format("woff"),
+url("./icons.ttf?11794b987183c03bab8af9cc94dbf81f") format("truetype"),
+url("./icons.svg?11794b987183c03bab8af9cc94dbf81f#icons") format("svg");
 }
 
 i {
@@ -25,7 +25,7 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-check:before {
     content: "\f101";
 }
-.icon-ciclre-cross:before {
+.icon-circle-cross:before {
     content: "\f102";
 }
 .icon-history:before {
